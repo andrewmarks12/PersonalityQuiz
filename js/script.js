@@ -18,8 +18,6 @@ buttons.forEach(function(button){
     button.classList.add("btn-primary");
 
     userAnswers[buttonID] = (response);
-    console.log(userAnswers);
-    console.log("button clicked!");
   })
 })
 
